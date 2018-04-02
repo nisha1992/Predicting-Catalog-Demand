@@ -84,6 +84,9 @@ Given profit margin is 50%, and cost for each catalog is $6.50, hence for all 25
 3.	What is the expected profit from the new catalog (assuming the catalog is sent to these 250 customers)?
 -	Profit equals $21987.43
 
+# Alteryx Flow
+![alt_text](https://github.com/nisha1992/Predicting-Catalog-Demand/blob/master/PredictCatalogDemandAlteryxFlow.PNG)
+
 
 
 
